@@ -1,4 +1,10 @@
-Hi, there! I'm Alânio Nunes!
+# Alânio Nunes :man_technologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=likedin&logoColor=white&link=https://www.linkedin.com/in/al%C3%A2nio-ara%C3%BAjo-nunes-056458b6/)](https://www.linkedin.com/in/al%C3%A2nio-ara%C3%BAjo-nunes-056458b6/)
+
+### Hello!
+
+My name is Alânio Nunes. 
 I'm going to a back-end developer 💻
 
 - 🚀 I’m currently looking for a job and learning opportunity
