@@ -8,5 +8,5 @@ My name is Alânio.
 
 - 😄 I would like to become a back-end developer
 - 🚀 I’m currently looking for a job and learning opportunity
-- 💻 Java, Python, JavaScript, HTML, CSS.
+- 💻 Java, JavaScript, HTML, CSS.
 - 💬 Let's talk about I.T., series, movies, games.
